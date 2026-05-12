@@ -34,6 +34,11 @@ This project analyzes e-commerce sales data using SQL and Power BI to generate b
 - Revenue increased during weekends
 - Top customers contributed a major share of sales
 
+## Live Dashboard
+
+[Click here to view Live Dashboard]
+(https://app.powerbi.com/groups/me/reports/fb7f848b-2db2-42ee-8afd-4c5d1d635a59/739d27eea550303bcc74?experience=power-bi)
+
 ## Author
 
 Karan Dubey
