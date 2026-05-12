@@ -1,25 +1,39 @@
-# E-Commerce Revenue Dashboard
+# E-Commerce Revenue Intelligence Dashboard
 
-## Project Overview
-This project analyzes e-commerce sales data 
-using PostgreSQL and Power BI.
+## Project Description
+
+This project analyzes e-commerce sales data using SQL and Power BI to generate business insights such as:
+- Total Revenue
+- Revenue by Category
+- Daily Sales Trend
+- Top Products
+- Top Customers
 
 ## Tools Used
-- PostgreSQL (Database)
-- Power BI (Dashboard)
+
+- PostgreSQL
+- SQL
+- Power BI
+- DAX
 
 ## Features
-- Total Revenue Analysis
-- Category-wise Revenue
-- Daily Revenue Trend
-- Top Products Table
-- Top Customers Table
-- Interactive Filters (Slicers)
 
-## Files
-- dashboard.pbix (Power BI file)
-- database.sql (SQL queries)
-- dashboard1.png (Screenshot)
+- Interactive Dashboard
+- Category and Date Filters
+- Revenue Analysis
+- Customer Insights
+- Product Performance Tracking
+
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard1.png)
+
+## Key Insights
+
+- Electronics category generated the highest revenue
+- Revenue increased during weekends
+- Top customers contributed a major share of sales
 
 ## Author
+
 Karan Dubey
